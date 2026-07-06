@@ -1,4 +1,6 @@
----\nlayout: default\ntitle: ...\n---
+---
+layout: default\ntitle: ...
+---
 # BubbleBattle 개인정보처리방침
 
 **최종 업데이트: 2026-07-06**
