@@ -1,5 +1,5 @@
 ---
-layout: default\ntitle: ...
+layout: default\ntitle: BubbleBattle 개인정보처리방침
 ---
 # BubbleBattle 개인정보처리방침
 
